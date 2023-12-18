@@ -24,17 +24,17 @@ https://data.census.gov/
 - **Interactive Map Showing Percentage Difference**: This map visualizes the percentage difference in population changes at the county level. The symmetric color map ranges from red (population decrease) to blue (population increase), with white indicating minimal or no change.
 
 
-![Folium Map Showing Percentage Difference]((output/Population Precent difference 2000-2020.jpg))
+![Folium Map Showing Percentage Difference](output/Population Precent difference 2000-2020.jpg)
 
 ### Plotly Choropleth Map
 - **Interactive Plotly Map with Population Data**: This Plotly map provides an interactive choropleth representation of population data for US counties in 2000 and 2020. The map includes a slider to switch between the years, displaying changes in population over two decades.
 
-![Plotly Interactive Choropleth Map]((output/Population comparision1.jpg))
+![Plotly Interactive Choropleth Map](output/Population comparision1.jpg)
 
 
 - **High School Graduate Percentage among Ages 18-24 in 2020**: This interactive map shows the percentage of high school graduates among the 18-24 age group across US counties in 2020. The map utilizes a color scale to represent varying percentages, with detailed statistics available in the hover tooltip for each county. The data includes the total population in this age group, the number of high school graduates, bachelor’s degree holders, and those with less education.
 
-![Plotly High School Graduate Percentage Map]((output/Highschool Graduate Precentage Map.jpg))
+![Plotly High School Graduate Percentage Map](output/Highschool Graduate Precentage Map.jpg)
 
 
 
