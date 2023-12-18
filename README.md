@@ -42,9 +42,9 @@ To set up this project locally:
 1. Install Dependencies:
 - Install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 - Clone the repository and navigate to the root directory.
-     git clone https://github.com/mbabeykoon/GeoSpatial.git
+     \git clone https://github.com/mbabeykoon/GeoSpatial.git
 - Run the following command to create a conda environment from the `environment.yml` file:
- conda env create -f environment.yml
+      \conda env create -f environment.yml
 2. Run Jupyter Notebooks:
 - Navigate to the notebook directory.
 - Open the notebooks in Jupyter Lab/Notebook.
