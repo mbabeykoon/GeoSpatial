@@ -19,21 +19,21 @@ https://data.census.gov/
 ### Folium Maps
 - **Interactive Choropleth Map for 2000 and 2020**: This map displays the population distribution across US counties for the years 2000 and 2020. Two layers, one for each year, allow users to switch between them to observe changes over time.
 
-![Folium Choropleth Map for 2000 and 2020](URL_of_Folium_Choropleth_Map)
+![Folium Choropleth Map for 2000 and 2020]([URL_of_Folium_Choropleth_Map)](https://github.com/mbabeykoon/GeoSpatial/blob/main/output/both_years_map.html)
 
 - **Interactive Map Showing Percentage Difference**: This map visualizes the percentage difference in population changes at the county level. The symmetric color map ranges from red (population decrease) to blue (population increase), with white indicating minimal or no change.
 
-![Folium Map Showing Percentage Difference](URL_of_Folium_Percentage_Difference_Map)
+![Folium Map Showing Percentage Difference]([URL_of_Folium_Percentage_Difference_Map](https://github.com/mbabeykoon/GeoSpatial/blob/main/output/Population%20Precent%20difference%202000-2020.jpg))
 
 ### Plotly Choropleth Map
 - **Interactive Plotly Map with Population Data**: This Plotly map provides an interactive choropleth representation of population data for US counties in 2000 and 2020. The map includes a slider to switch between the years, displaying changes in population over two decades.
 
-![Plotly Interactive Choropleth Map](URL_of_Plotly_Choropleth_Map)
+![Plotly Interactive Choropleth Map]([URL_of_Plotly_Choropleth_Map](https://github.com/mbabeykoon/GeoSpatial/blob/main/output/Population%20comparision1.jpg))
 
 
 - **High School Graduate Percentage among Ages 18-24 in 2020**: This interactive map shows the percentage of high school graduates among the 18-24 age group across US counties in 2020. The map utilizes a color scale to represent varying percentages, with detailed statistics available in the hover tooltip for each county. The data includes the total population in this age group, the number of high school graduates, bachelor’s degree holders, and those with less education.
 
-![Plotly High School Graduate Percentage Map](URL_of_Plotly_Map)
+![Plotly High School Graduate Percentage Map]([URL_of_Plotly_Map](https://github.com/mbabeykoon/GeoSpatial/blob/main/output/Highschool%20Graduate%20Precentage%20Map.jpg))
 
 
 
@@ -41,10 +41,10 @@ https://data.census.gov/
 To set up this project locally:
 1. Install Dependencies:
 - Install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
-- Clone the repository and navigate to the root directory..
-     \git clone https://github.com/mbabeykoon/GeoSpatial.git
-- Run the following command to create a conda environment from the `environment.yml` file: ..
-      \conda env create -f environment.yml
+- Clone the repository and navigate to the root directory.\n
+  git clone https://github.com/mbabeykoon/GeoSpatial.git
+- Run the following command to create a conda environment from the `environment.yml` file: \n
+  conda env create -f environment.yml
 2. Run Jupyter Notebooks:
 - Navigate to the notebook directory.
 - Open the notebooks in Jupyter Lab/Notebook.
