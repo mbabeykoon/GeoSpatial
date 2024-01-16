@@ -42,10 +42,15 @@ https://data.census.gov/
 To set up this project locally:
 1. Install Dependencies:
 - Install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
-- Clone the repository and navigate to the root directory.\n
+- Clone the repository and navigate to the root directory.
+  ```bash
   git clone https://github.com/mbabeykoon/GeoSpatial.git
-- Run the following command to create a conda environment from the `environment.yml` file: \n
+  cd GeoSpatial
+- Run the following command to create a conda environment from the `environment.yml` file:
+  ```bash
   conda env create -f environment.yml
+  conda activate env_name #change this to your environment name
+ 
 2. Run Jupyter Notebooks:
 - Navigate to the notebook directory.
 - Open the notebooks in Jupyter Lab/Notebook.
